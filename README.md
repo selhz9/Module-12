@@ -24,7 +24,7 @@ This application can be used by any coding student looking to put all their proj
 ## Contributors
 This code and assignment description was given to me to modify by my Bootcamp 2024 Instructor.
 
-##License
+## License
 MIT License
 
 ## Questions
