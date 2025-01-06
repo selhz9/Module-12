@@ -1,4 +1,4 @@
-# Module 10 Challenge
+# Module 12 Challenge
 Homework assignment for Coding Bootcamp 2024
 
 ## Table of Contents
