@@ -13,10 +13,10 @@ Homework assignment for Coding Bootcamp 2024
 This is a single-page web application for a project portfolio using react.
 
 ## Installation
-npm i
-npm install react react-dom
-npm install @fortawesome/fontawesome-free
-npm run dev
+- npm i
+- npm install react react-dom
+- npm install @fortawesome/fontawesome-free
+- npm run dev
 
 ## Usage
 This application can be used by any coding student looking to put all their projects in one place to send to potential employers.
